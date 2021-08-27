@@ -381,7 +381,7 @@ left: 400px;
 }
 
 #wheels img{
-    animation: wheel 15s linear infinite;
+    animation: wheel 100ms linear infinite;
 }
 
 @keyframes wheel{
